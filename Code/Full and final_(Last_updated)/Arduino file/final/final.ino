@@ -78,7 +78,7 @@ void setup()
 void feverAlert() {
   lcd.setCursor(4, 1);
   lcd.print("ALERT!!!");
-  delay(100);
+  delay(500);
 }
 
 
